@@ -1,5 +1,5 @@
 {
-  "name": "SMPT",
+  "name": "allteethmatterco",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jordantsai/SMPT.git"
+    "url": "git+https://github.com/joleentsai/allteethmatterco.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jordantsai/SMPT/issues"
+    "url": "https://github.com/joleentsai/allteethmatterco/issues"
   },
-  "homepage": "https://github.com/jordantsai/SMPT",
+  "homepage": "https://github.com/joleentsai/allteethmatterco",
   "dependencies": {},
   "browserslist": [
     ">0.2% in US",
