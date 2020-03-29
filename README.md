@@ -1,7 +1,7 @@
 
-<img style="width: 50%; margin-left: 25%;" src="./src/assets/img/logo570x220.png" alt="SMPT Santa Monica Physical Therapy Orthopedic & Sports Physical Therapy">
+<img style="width: 50%; margin-left: 25%;" src="./src/assets/img/logo570x220.png" alt="All Teeth Matter Co">
 
-_SMPT website & build tools_ 
+_All Teeth Matter Co website & build tools_ 
 
 
 ## Installation
